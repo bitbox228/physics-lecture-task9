@@ -1,0 +1,22 @@
+# Created by https://www.toptal.com/developers/gitignore/api/webstorm,react
+# Edit at https://www.toptal.com/developers/gitignore?templates=webstorm,react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+/build
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+### JetBrains IDE ###
+.idea
